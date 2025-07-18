@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/training_reports/all-reports/pcg-train-repo-v2.rptproj.rsuser
+/training_reports/all-reports/pcg-train-repo-v2.rptproj
+/training_reports/all-reports/EnerGov_DiamondBarCA.rds
+/training_reports/all-reports/all-reports.sln
+/training_reports/all-reports/.vs/all-reports/v17
+/training_reports/all-reports/.vs/all-reports/FileContentIndex
+/.vs/pcg-train-repo-v2/v17
+/.vs/pcg-train-repo-v2/FileContentIndex
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
